@@ -6,4 +6,5 @@ Analyse and predict customer satisfaction based on a huge dataset containing 23 
 - Deep learning
   * Restricted Boltzmann machines, baseline methods (SVM, KNN)
   * Also compared accuracy on variety of kernel methods and activation functions to determine the best combination
+  Accuracy on RBM 91% vs 78.4% on SVM and 74% on K-nearest neighbours
   * Please reach out for a detailed interim draft paper of the project (with results, methods and comparisons)
